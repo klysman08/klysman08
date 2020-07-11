@@ -1,14 +1,7 @@
-# Daniel Obara
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
+# Klysman
+[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysmanrezende/)](https://www.linkedin.com/in/klysmanrezende/)
+[![Gmail Badge](https://img.shields.io/badge/-klysman.rk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
 ## Hi 👋, 
-I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm a machine learning and computer vision developer, passionate about technologies. 👨‍💻
 
-- 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,Ruby,DevOps and of course JS improvments
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
-
-"Do not expect from others what you expect of yourself." 
+Graduating in Production Engineering from the Federal University of Minas Gerais. I am currently a member of the Smart Sense laboratory of the Computer Science department and of the Bioengineering laboratory (Labbio) of the Mechanical Engineering department, where I do research in the Computer Vision area. I am a volunteer monitor in the open Idea Real laboratory, whose environment is provided with technologies and resources to encourage the development of projects and research in Synthetic Biology and Engineering. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
