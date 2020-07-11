@@ -1,5 +1,5 @@
 # Klysman
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysmanrezende/)](https://www.linkedin.com/in/klysmanrezende/)
+[![Linkedin Badge](https://img.shields.io/badge/-klysmanrezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysmanrezende/)](https://www.linkedin.com/in/klysmanrezende/)
 [![Gmail Badge](https://img.shields.io/badge/-klysman.rk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
 ## Hi 👋, 
 I'm a machine learning and computer vision developer, passionate about technologies. 👨‍💻
