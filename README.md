@@ -4,4 +4,4 @@
 ## Hi 👋, 
 I'm a Computer Vision and Machine learning Developer, passionate about technologies. 👨‍💻
 
-Graduating in Production Engineering from the Federal University of Minas Gerais. I'm currently a member of the Smart Sense laboratory of the Computer Science department and of the Bioengineering laboratory (Labbio) of the Mechanical Engineering department, where I do research in the Computer Vision area. I'm a volunteer monitor in the open Idea Real laboratory, whose environment is provided with technologies and resources to encourage the development of projects and research in Synthetic Biology and Engineering. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
+Graduating in Production Engineering from the Federal University of Minas Gerais. I'm currently doing an internship at Kunumi, a company that reimagines complex challenges through the lens of artificial intelligence. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
