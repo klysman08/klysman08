@@ -1,6 +1,6 @@
 # [![Klysman08](https://github.com/klysman08/klysman08/blob/master/Kanagawa.jpg)](https://github.com/klysman08/klysman08/blob/master/Kanagawa.jpg)
 [![Linkedin Badge](https://img.shields.io/badge/-klysman08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/)](https://www.linkedin.com/in/klysman08/)
-[![Instagram Badge](https://img.shields.io/badge/-klysman08-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klysman.rk/)](https://www.instagram.com/klysman.rk/)
+[![Instagram Badge](https://img.shields.io/badge/-klysman08-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klysman.rk/)](https://www.instagram.com/klysman.rk/)
 [![Gmail Badge](https://img.shields.io/badge/-klysman.rk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
 
 
