@@ -5,7 +5,7 @@
 
 
 ## Hi 👋, 
-I'm a Computer Vision and Machine learning Developer, passionate about technologies. 👨‍💻
+I'm a Computer Vision, Machine learning Developer and Ui Design, passionate about technologies. 👨‍💻
 
 Graduating in Production Engineering from the Federal University of Minas Gerais. I'm currently doing an internship at Kunumi, a company that reimagines complex challenges through the lens of artificial intelligence. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
 
