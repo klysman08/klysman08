@@ -10,4 +10,4 @@ I'm a Computer Vision, Machine learning Developer and UI Designer, passionate ab
 
 Graduating in Production Engineering from the Federal University of Minas Gerais. I'm currently doing an internship at Kunumi, a company that reimagines complex challenges through the lens of artificial intelligence. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
 
-I've experience in academic research, teaching, project management, data analysis and management, Digital Marketing, UX and Ui, ability to manage tasks, teams and business. I like to solve challenges, work in teams, give training and promote connections.
+I have experience in academic research, teaching, project management, data analysis and management, Digital Marketing, UX and Ui, ability to manage tasks, teams and business. I like to solve challenges, work in teams, give training and promote connections.
