@@ -6,8 +6,10 @@
 
 
 ## Hi 👋, 
-I'm a Computer Vision, Machine learning Developer and UI Designer, passionate about technologies. 👨‍💻
+I'm a Machine Learning Developer, Vue.js Developer and Product Manager, passionate about technologies. 👨‍💻
 
-Graduating in Production Engineering from the Federal University of Minas Gerais. I'm currently Business Developer at Kunumi, a company that reimagines complex challenges through the lens of artificial intelligence. I also work as a developer at KRM Digital, a company that provides data analytics and digital marketing services.
+Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil). I am currently A.I Business Developer at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. I also work as a Product Manager at KRM Digital, a company that provides services in Data Analytics and Digital Marketing.
+
+I'm interested in the areas of Operations Research, Artificial Intelligence, Digital Economy, DeFi, Blockchain, UX and UI Designer, Data Analysis and Entrepreneurship.
 
 I have experience in academic research, teaching, project management, data analysis and management, Digital Marketing, UX and Ui, ability to manage tasks, teams and business. I like to solve challenges, work in teams, give training and promote connections.
