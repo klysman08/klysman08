@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm a Machine Learning Developer, Vue.js Developer and Product Manager, passionate about technologies. 👨‍💻
+I'm a Machine Learning Developer, Vue.js Developer and Product Owner, passionate about technologies. 👨‍💻
 
 Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil). I am currently A.I Business Developer at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. I also work as a Product Manager at KRM Digital, a company that provides services in Data Analytics and Digital Marketing.
 
