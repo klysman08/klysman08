@@ -14,6 +14,7 @@ I have experience in academic research, teaching, project management, data analy
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-C13584?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/KlysmanRK/)](https://www.youtube.com/user/KlysmanRK/)
 [![Tiktok Badge](https://img.shields.io/badge/-Tiktok-C13584?style=flat-square&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@klysman.ka/)](https://www.tiktok.com/@klysman.ka/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-C13584?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/klysman08/)](https://www.twitch.tv/klysman08/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-C13584?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq)](https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq)
 [![Myanimelist Badge](https://img.shields.io/badge/-Myanimelist-C13584?style=flat-square&logo=Myanimelist&logoColor=white&link=https://myanimelist.net/animelist/Klysman08)](https://myanimelist.net/animelist/Klysman08)
 
 
