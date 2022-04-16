@@ -8,6 +8,7 @@ I'm interested in the areas of Operations Research, Artificial Intelligence, Dig
 I have experience in academic research, teaching, project management, data analysis and management, Digital Marketing, UX and Ui, ability to manage tasks, teams and business. I like to solve challenges, work in teams, give training and promote connections.
 
 My profiles:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/)](https://www.linkedin.com/in/klysman08/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/584892602071908369/)](https://discordapp.com/users/584892602071908369/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
