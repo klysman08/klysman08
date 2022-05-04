@@ -9,10 +9,10 @@ I have experience in academic research, teaching, project management, data analy
 
 My profiles:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/)](https://www.linkedin.com/in/klysman08/?useTarget=_blank)
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/584892602071908369/)](https://discordapp.com/users/584892602071908369/?useTarget=_blank)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/?useTarget=_blank)](https://www.linkedin.com/in/klysman08/?useTarget=_blank)
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/584892602071908369/?useTarget=_blank)](https://discordapp.com/users/584892602071908369/?useTarget=_blank)
 [![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klysman.ka_/)](https://www.instagram.com/klysman.ka_/?useTarget=_blank)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klysman.ka_?useTarget=_blank)](https://www.instagram.com/klysman.ka_/?useTarget=_blank)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-C13584?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/KlysmanRK/)](https://www.youtube.com/user/KlysmanRK/?useTarget=_blank)
 [![Tiktok Badge](https://img.shields.io/badge/-Tiktok-C13584?style=flat-square&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@klysman.ka/)](https://www.tiktok.com/@klysman.ka/?useTarget=_blank)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-C13584?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/klysman08/)](https://www.twitch.tv/klysman08/?useTarget=_blank)
