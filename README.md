@@ -1,7 +1,7 @@
 ## Hi 👋, 
-I'm a Machine Learning Developer, Vue.js Developer and Product Owner, passionate about technologies and Natural Science. 👨‍💻
+I'm a Data Scientist, Machine Learning Developer and Vue.js Developer, passionate about technologies and Natural Science. 👨‍💻
 
-Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil). I am currently A.I Product Owner at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. I also work as a Product Manager at KRM Digital, a company that provides services in Data Analytics and Digital Marketing. My professional focus is to translate business demands into data science activities.
+Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil). I am currently Data Scientist at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. I also work as a Product Owner at KRM Digital, a company that provides services in Data Analytics and Digital Marketing. My professional focus is to translate business demands into data science activities.
 
 I'm interested in the areas of Operations Research, Software Engineering, Artificial Intelligence, Digital Economy, DeFi, Blockchain, UX and UI Designer, Data Analysis and Entrepreneurship.
 
