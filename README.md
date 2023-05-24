@@ -1,7 +1,7 @@
 ## Hi 👋, 
 I'm a Data Scientist and Software Engineer, passionate about technologies and Natural Science. 👨‍💻
 
-Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil). I am currently Data Scientist at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. Likewise, I previously worked as a Software Engineer and Product Owner at KRM Digital, a company that provides services in Data Analytics and Digital Marketing. 
+Graduating in Production Engineering from Universidade Federal de Minas Gerais (one of the best universities in Brazil) and an exchange student at the Polytechnic Institute of Setúbal (ERASMUS). I am currently Data Scientist at Kunumi, a company focused on the convergence between Deep Learning and Big Data in order to make forecasts for the areas of business, health and cities, solving complex challenges through the lenses of artificial intelligence. Likewise, I previously worked as a Software Engineer and Product Owner at KRM Digital, a company that provides services in Data Analytics and Digital Marketing. 
 
 My professional focus is to translate business demands into data science activities.
 
