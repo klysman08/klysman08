@@ -13,7 +13,7 @@ My profiles:
 [![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klysman.rk@gmail.com)](mailto:klysman.rk@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klysman.ka_?useTarget=_blank)](https://www.instagram.com/klysman.ka_/?useTarget=_blank)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-C13584?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/KlysmanRK/)](https://www.youtube.com/user/KlysmanRK/?useTarget=_blank)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-C13584?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@Klysman08/)](https://www.youtube.com/@Klysman08/?useTarget=_blank)
 [![Tiktok Badge](https://img.shields.io/badge/-Tiktok-C13584?style=flat-square&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@klysman.ka/)](https://www.tiktok.com/@klysman.ka/?useTarget=_blank)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-C13584?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/klysman08/)](https://www.twitch.tv/klysman08/?useTarget=_blank)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-C13584?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq)](https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq?useTarget=_blank)
