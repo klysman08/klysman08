@@ -18,7 +18,7 @@ My profiles:
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-C13584?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/klysman08/)](https://www.twitch.tv/klysman08/?useTarget=_blank)
 [![Twitch Badge](https://img.shields.io/badge/-Steam-C13584?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/klysman08/)](https://steamcommunity.com/id/klysman08/?useTarget=_blank)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-C13584?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq)](https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq?useTarget=_blank)
-[![Myanimelist Badge](https://img.shields.io/badge/-Myanimelist-C13584?style=flat-square&logo=Myanimelist&logoColor=white&link=https://myanimelist.net/animelist/Klysman08?useTarget=_blank)](https://myanimelist.net/animelist/Klysman08?useTarget=_blank)
+[![Myanimelist Badge](https://img.shields.io/badge/-Myanimelist-C13584?style=flat-square&logo=Myanimelist&logoColor=white&link=https://myanimelist.net/animelist/Klysman08)](https://myanimelist.net/animelist/Klysman08?useTarget=_blank)
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
 
 My workstation: [![Klysman08](https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg)](https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg)
