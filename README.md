@@ -8,6 +8,7 @@ My professional goal is to translate business demands into machine learning acti
 I am interested in Computer Science, Operations Research, and Digital Economics. I am passionate about natural sciences, technologies, and geopolitics.
 
 My main skills lie in academic research, teaching, project management, data analysis, and data management. I enjoy tackling challenges, providing training, and fostering connections.
+My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
 My profiles:
 
