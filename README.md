@@ -8,7 +8,8 @@ My main skills lie in academic research, teaching, project management, data anal
 
 
 My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
-#AnimalWelfare
+
+#AnimalWelfare🐺
 
 My profiles:
 
