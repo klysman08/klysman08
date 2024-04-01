@@ -11,6 +11,8 @@ My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
 #AnimalWelfare🐺
 
+#LearningJapanese
+
 My profiles:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/?useTarget=_blank)](https://www.linkedin.com/in/klysman08/?useTarget=_blank)
