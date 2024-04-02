@@ -1,4 +1,4 @@
-## Hi 👋, 
+## Hi 👋, Watashi wa kurisumandesu
 I'm a Data Scientist and Software Engineer, passionate about technologies, natural science and animes. 👨‍💻
 
 Master's student in Data Science at the Polytechnic Institute of Setúbal and holding a degree in Production Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working as a Data Scientist focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have previous experience as a Software Engineer and Product Owner in various companies and projects. Throughout my academic career, I have had the opportunity to participate in scientific research in three university labs, contributing to the transfer of technology from academia to society. Additionally, I have been able to give back the knowledge and experience I've gained through volunteer work focused on education and entrepreneurship.
