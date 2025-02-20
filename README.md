@@ -28,6 +28,10 @@ My profiles:
 [![Myanimelist Badge](https://img.shields.io/badge/-Myanimelist-C13584?style=flat-square&logo=Myanimelist&logoColor=white&link=https://myanimelist.net/profile/Klysman08)](https://myanimelist.net/profile/Klysman08?useTarget=_blank)
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
 
-My workstation: [![Klysman08](https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg)](https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg)
-
-
+My workstation: 
+<div style="display: flex;">
+  <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="Imagem 1" style="width: 50%; ">
+  <a href="https://miku.detakai.com/">
+    <img src="https://media.tenor.com/AIHWOa8aHFAAAAAi/miku-hatsune.gif" alt="Hatsune Minu" style="width: 50%;">
+  </a>
+</div>
