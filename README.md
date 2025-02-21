@@ -32,6 +32,6 @@ My workstation:
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="Imagem 1" style="width: 50%; ">
   <a href="https://miku.detakai.com/">
-    <img src="https://media.tenor.com/AIHWOa8aHFAAAAAi/miku-hatsune.gif" alt="Hatsune Minu" style="width: 50%;">
+    <img src="https://s3.detakai.com/miku-gif-flip.gif" alt="Hatsune Minu" style="width: 50%;">
   </a>
 </div>
