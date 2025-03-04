@@ -11,7 +11,7 @@ My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
 #AnimalWelfare🐺
 
-#LearningJapanese
+#LearningJapanese日本
 
 My profiles:
 
