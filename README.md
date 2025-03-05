@@ -14,11 +14,11 @@ Key Competences:<br>
 Skills:
 Python, Spark, SQL, ETL, EDA, RestAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, Continuous integration and Continuous delivery, Lakehouse, Terraform, Cloud Computing
 
-My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
+#Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
-#AnimalWelfare🐺
+#AnimalWelfare 🐺
 
-#LearningJapanese日本
+#LearningJapanese 日本
 
 My profiles:
 
