@@ -3,8 +3,13 @@ I'm a Data Scientist and AI engineer, passionate about technologies and natural 
 
 Master in Data Science at the Polytechnic Institute of Setúbal and holding a degree in Production and Software Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working as an TechLead focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have experiences with System Design and DevOps in various companies and projects. Throughout my academic career, I have had the opportunity to participate in scientific research in three university labs, contributing to the transfer of technology from academia to society. Additionally, I have been able to give back the knowledge and experience I've gained through volunteer work focused on education and entrepreneurship.
 
-My professional goal is to translate business demands into machine learning activities.
-My main skills lie in academic research, teaching, project management, data analysis, and data management. I enjoy tackling challenges, providing training, and fostering connections.
+Professional experience: +8 years:
+
+Key Competences:<br>
+🧠 Data Science / Data Engineering <br>
+🚀 Databricks / Architect Cloud Computing <br>
+💻 DataOps / MLOps / LLMOps <br> 
+🏗️Systems Design / Operations Research <br>
 
 Skills:
 Python, Spark, SQL, ETL, EDA, RestAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, Continuous integration and Continuous delivery, Lakehouse, Terraform, Cloud Computing
