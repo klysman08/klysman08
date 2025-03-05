@@ -6,6 +6,8 @@ Master in Data Science at the Polytechnic Institute of Setúbal and holding a de
 My professional goal is to translate business demands into machine learning activities.
 My main skills lie in academic research, teaching, project management, data analysis, and data management. I enjoy tackling challenges, providing training, and fostering connections.
 
+Skills:
+Python, Spark, SQL, ETL, EDA, RestAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, Continuous integration and Continuous delivery, Lakehouse, Terraform, Cloud Computing
 
 My hobbies are: 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
