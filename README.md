@@ -12,7 +12,7 @@ Key Competences:<br>
 🏗️ Systems Design / Operations Research <br>
 
 Skills:
-Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, Delta Lakehouse, Terraform, Cloud Computing.
+Python, Spark, Delta, UnityCatalog, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
 
 #Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
