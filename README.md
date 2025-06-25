@@ -1,7 +1,7 @@
 ## Hi 👋, Watashi wa Kurisuman desu (クリスマン). 
 I'm a Data Scientist and AI engineer, passionate about technologies and natural science. 👨‍💻
 
-Master in Data Science at the Polytechnic Institute of Setúbal and holding a degree in Production and Software Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have experiences with System Design and DevOps in various companies and projects. Throughout my academic career, I have had the opportunity to participate in scientific research in three university labs, contributing to the transfer of technology from academia to society. Additionally, I have been able to give back the knowledge and experience I've gained through volunteer work focused on education and entrepreneurship.
+Master in Data Science and holding a degree in Production and Software Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have experiences with System Design and DevOps in various companies and projects. Throughout my academic career, I have had the opportunity to participate in scientific research in three university labs, contributing to the transfer of technology from academia to society. Additionally, I have been able to give back the knowledge and experience I've gained through volunteer work focused on education and entrepreneurship.
 
 Professional experience: +8 years:
 
@@ -12,7 +12,7 @@ Key Competences:<br>
 🏗️ Systems Design / Operations Research <br>
 
 Skills:
-Python, Spark, Delta, UnityCatalog, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
+Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
 
 #Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
