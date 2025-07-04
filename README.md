@@ -33,6 +33,7 @@ My profiles:
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-C13584?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq)](https://open.spotify.com/user/22dhyrbqosqbbftmnhgdliheq?useTarget=_blank)
 [![Myanimelist Badge](https://img.shields.io/badge/-Myanimelist-C13584?style=flat-square&logo=Myanimelist&logoColor=white&link=https://myanimelist.net/profile/Klysman08)](https://myanimelist.net/profile/Klysman08?useTarget=_blank)
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
+[![SIMKL Badge](https://img.shields.io/badge/-SIMKL-C13584?style=flat-square&logo=SIMKL&logoColor=white&link=https://simkl.com/7740463/dashboard/)](https://simkl.com/7740463/dashboard/?useTarget=_blank)
 
 My workstation: 
 <div style="display: flex;">
