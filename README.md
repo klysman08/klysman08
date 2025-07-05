@@ -42,3 +42,9 @@ My workstation:
     <img src="https://s3.detakai.com/miku-gif-flip.gif" alt="Hatsune Minu" style="width: 50%;">
   </a>
 </div>
+
+
+My network / clouds: 
+<div style="display: flex;">
+  <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Imagem 1" style="width: 100%; ">
+</div>
