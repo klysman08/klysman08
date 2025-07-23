@@ -35,7 +35,7 @@ My profiles:
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
 [![SIMKL Badge](https://img.shields.io/badge/-SIMKL-C13584?style=flat-square&logo=SIMKL&logoColor=white&link=https://simkl.com/7740463/dashboard/)](https://simkl.com/7740463/dashboard/?useTarget=_blank)
 
-My workstation: 
+My Workstation: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="Imagem 1" style="width: 50%; ">
   <a href="https://miku.detakai.com/">
@@ -44,7 +44,7 @@ My workstation:
 </div>
 
 
-My network / clouds: 
+My Homelab - Servers: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Imagem 1" style="width: 100%; ">
 </div>
