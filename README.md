@@ -47,4 +47,5 @@ My profiles:
 #### My Homelab - Servers: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Imagem 1" style="width: 100%; ">
+  <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Imagem 1" style="width: 100%; ">
 </div>
