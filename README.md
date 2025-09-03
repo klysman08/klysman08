@@ -37,15 +37,15 @@ My profiles:
 
 #### My Workstation: 
 <div style="display: flex;">
-  <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="Imagem 1" style="width: 50%; ">
+  <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="workstation" style="width: 50%; ">
   <a href="https://miku.detakai.com/">
-    <img src="https://s3.detakai.com/miku-gif-flip.gif" alt="Hatsune Minu" style="width: 50%;">
+    <img src="https://s3.detakai.com/miku-gif-flip.gif" alt="Hatsune Miku" style="width: 50%;">
   </a>
 </div>
 
 
 #### My Homelab - Servers: 
 <div style="display: flex;">
-  <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Imagem 1" style="width: 100%; ">
-  <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Imagem 1" style="width: 100%; ">
+  <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Diagram" style="width: 100%; ">
+  <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Nano Pi" style="width: 100%; ">
 </div>
