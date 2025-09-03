@@ -7,9 +7,9 @@ Professional experience: +8 years:
 
 Key Competences:<br>
 🧠 Data Science / Data Engineering <br>
-🚀 Databricks / Architect Cloud Computing <br>
-💻 DataOps / MLOps / LLMOps <br> 
 🏗️ Systems Design / Operations Research <br>
+🚀 Databricks / Architect Cloud Computing <br>
+💻 DataOps / MLOps <br> 
 
 Skills:
 Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
