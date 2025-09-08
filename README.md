@@ -1,7 +1,7 @@
 ## Hi 👋, Watashi wa Kurisuman desu (私はクリスマン). 
-I'm a Data Scientist and AI engineer, passionate about technologies and natural science. 👨‍💻
+I'm a Data Scientist and ML engineer, passionate about technologies and natural science. 👨‍💻
 
-Master in Data Science and holding a degree in Production and Software Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have experiences with System Design and DevOps in various companies and projects. Throughout my academic career, I have had the opportunity to participate in scientific research in three university labs, contributing to the transfer of technology from academia to society. Additionally, I have been able to give back the knowledge and experience I've gained through volunteer work focused on education and entrepreneurship.
+Master in Data Science and holding a degree in Production and Software Engineering from the Federal University of Minas Gerais (one of the top universities in Brazil). I am currently working focusing on the convergence of Deep Learning and Big Data, making business predictions and solving complex challenges through artificial intelligence. I have extensive experience in enterprise architecture design, distributed system architecture, and DevOps engineering. This includes designing scalable microservices architectures, implementing CI/CD pipelines, container orchestration with Kubernetes, infrastructure as code using Terraform, and cloud-native solutions across AWS/Azure/GCP platforms.
 
 Professional experience: +8 years:
 
