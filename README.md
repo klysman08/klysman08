@@ -1,7 +1,7 @@
 ## Hi 👋, Watashi wa Kurisuman desu (私はクリスマン). 
 I'm a Data Scientist and ML engineer, passionate about technologies and natural science. 👨‍💻
 
-Holder of a Master's degree in Data Science and a graduate degree in Production and Software Engineering. An experienced researcher with significant contributions across three university laboratories. My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments.
+My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments.
 
 Professional experience: +8 years:
 
@@ -18,7 +18,7 @@ Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx,
 
 #AnimalWelfare 🐺
 
-#LearningJapanese 日本
+#LearningJapanese 日本語
 
 My profiles:
 
