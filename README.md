@@ -19,6 +19,7 @@ Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx,
 #AnimalWelfare 🐺
 
 #LearningJapanese 日本語
+Check my app https://nihongo.astrofocus.app
 
 My profiles:
 
