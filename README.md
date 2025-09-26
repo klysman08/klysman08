@@ -1,7 +1,7 @@
 ## Hi 👋, Watashi wa Kurisuman desu (私はクリスマン). 
 I'm a Data Scientist and ML engineer, passionate about technologies and natural science. 👨‍💻
 
-My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments.
+My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments. My master's thesis involved developing a complete lakehouse platform to support AI and business intelligence applications for maritime port operations.
 
 Professional experience: +8 years:
 
