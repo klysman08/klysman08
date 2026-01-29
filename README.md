@@ -51,5 +51,4 @@ My profiles:
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Diagram" style="width: 100%; ">
   <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Nano Pi" style="width: 100%; ">
-  <img src="https://github.com/klysman08/klysman08/blob/master/nginx2026.png" alt="nginx" style="width: 100%; ">
 </div>
