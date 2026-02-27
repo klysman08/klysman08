@@ -3,7 +3,7 @@ I'm a Data Scientist and ML engineer, passionate about technologies and natural 
 
 My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments. My master's thesis involved developing a complete lakehouse platform to support AI and business intelligence applications for maritime port operations.
 
-Professional experience: +8 years:
+Professional experience: +9 years:
 
 Key Competences:<br>
 🧠 Data Science / Data Engineering <br>
@@ -19,11 +19,14 @@ Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx,
 #AnimalWelfare 🐺
 
 #LearningJapanese 日本語
-Check my app https://susumenihongo.app and https://astrofocus.app
+## Check my apps 
+- https://susumenihongo.app 
+- https://astrofocus.app 
+- https://wallpaper.astrofocus.app
 
 よろしくお願いします。🫡
 
-My profiles:
+## My profiles:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/?useTarget=_blank)](https://www.linkedin.com/in/klysman08/?useTarget=_blank)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/584892602071908369/?useTarget=_blank)](https://discordapp.com/users/584892602071908369/?useTarget=_blank)
@@ -38,7 +41,7 @@ My profiles:
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
 [![SIMKL Badge](https://img.shields.io/badge/-SIMKL-C13584?style=flat-square&logo=SIMKL&logoColor=white&link=https://simkl.com/7740463/dashboard/)](https://simkl.com/7740463/dashboard/?useTarget=_blank)
 
-#### My Workstation: 
+## My Workstation: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="workstation" style="width: 50%; ">
   <a href="https://miku.detakai.com/">
@@ -47,7 +50,7 @@ My profiles:
 </div>
 
 
-#### My Homelab - Servers: 
+## My Homelab - Servers: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Diagram" style="width: 100%; ">
   <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Nano Pi" style="width: 100%; ">
