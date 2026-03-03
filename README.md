@@ -2,17 +2,19 @@
 I'm a Data Scientist and ML engineer, passionate about technologies and natural science. 👨‍💻
 
 My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments. My master's thesis involved developing a complete lakehouse platform to support AI and business intelligence applications for maritime port operations.
+I have years of experience in software. I know which decisions matter and which don't. 
+I know how to build scalable, maintainable, cost-effective solutions and guide teams to do the same.
 
-Professional experience: +9 years:
+Professional experience: +10 years:
 
 Key Competences:<br>
-🧠 Data Science / Data Engineering <br>
-🏗️ Systems Design / Operations Research <br>
-🚀 Databricks / Architect Cloud Computing <br>
+🧠 Systems Design / Operations Research <br>
+🏗️ Databricks / Architect Cloud Computing <br>
+🚀 FinOps / Cloud Cost Optimization <br>
 💻 DataOps / MLOps <br> 
 
 Skills:
-Python, Spark, Delta, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
+Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
 
 #Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
