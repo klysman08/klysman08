@@ -25,6 +25,7 @@ Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker
 - https://susumenihongo.app 
 - https://astrofocus.app 
 - https://wallpaper.astrofocus.app
+- https://gifs.astrofocus.app
 
 よろしくお願いします。🫡
 
