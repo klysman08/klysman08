@@ -10,8 +10,7 @@ Professional experience: +10 years:
 Key Competences:<br>
 🧠 Systems Design / Operations Research <br>
 🏗️ Databricks / Architect Cloud Computing <br>
-🚀 FinOps / Cloud Cost Optimization <br>
-💻 DataOps / MLOps <br> 
+🚀 AIOps / FinOps
 
 Skills:
 Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
@@ -27,7 +26,7 @@ Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker
 - https://wallpaper.astrofocus.app
 - https://gifs.astrofocus.app
 
-よろしくお願いします。🫡
+## よろしくお願いします。🫡
 
 ## My profiles:
 
