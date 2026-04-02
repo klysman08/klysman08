@@ -1,5 +1,5 @@
 ## Hi 👋,　私はクリスマンです。
-I'm a Data Scientist and ML engineer, passionate about technologies and natural science. 👨‍💻
+I'm a Data Scientist and AI engineer, passionate about technologies and natural science. 👨‍💻
 
 My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments. My master's thesis involved developing a complete lakehouse platform to support AI and business intelligence applications for maritime port operations.
 I have years of experience in software. I know which decisions matter and which don't. 
