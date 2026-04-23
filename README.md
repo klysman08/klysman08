@@ -9,11 +9,11 @@ Professional experience: +10 years:
 
 Key Competences:<br>
 🧠 Systems Design / Operations Research <br>
-🏗️ Databricks / Architect Cloud Computing <br>
+🏗️ Data plataform / Architect Cloud Computing <br>
 🚀 AIOps / FinOps
 
 Skills:
-Python, Spark, SQL, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, MLflow, Lakehouse, Databricks, Cloud Computing.
+Python, Rust, SQL, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, Terraform, MLflow, Lakehouse, Databricks, Cloud Computing.
 
 #Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
