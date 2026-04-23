@@ -1,9 +1,14 @@
 ## Hi 👋,　私はクリスマンです。
 I'm a Data Scientist and AI engineer, passionate about technologies and natural science. 👨‍💻
 
-My expertise covers the full lifecycle of AI solutions, from concept to production, including data engineering, System Design, and DevOps. This involves designing scalable microservices architectures, implementing data and CI/CD pipelines, and orchestrating containers with Kubernetes across both cloud and on-premise environments. My master's thesis involved developing a complete lakehouse platform to support AI and business intelligence applications for maritime port operations.
-I have years of experience in software. I know which decisions matter and which don't. 
-I know how to build scalable, maintainable, cost-effective solutions and guide teams to do the same.
+Holder of a Master's degree in Data Science and a graduate degree in Production and Software Engineering.
+Experience bridging the gap between complex AI architecture and business growth. Expert in designing scalable Lakehouse solutions, FinOps and LLM integrations that drive operational efficiency.
+
+I am a Data Systems Engineer focused on building high-performance infrastructures, prioritizing hardware efficiency and low latency.  My technical approach avoids JVM overhead, using languages like Rust and Python to create native, scalable, and cost-optimized ecosystems.
+
+I have 10 years of experience in software. I know which decisions matter and which don't. I know how to build scalable, maintainable, cost-effective solutions and guide teams to do the same.
+
+
 
 Professional experience: +10 years:
 
@@ -13,7 +18,7 @@ Key Competences:<br>
 🚀 AIOps / FinOps
 
 Skills:
-Python, Rust, SQL, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ, Kafka, CI/CD, Terraform, MLflow, Lakehouse, Databricks, Cloud Computing.
+Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQL, Redis, Nginx, Docker, Kubernetes, Microservices, RabbitMQ/Kafka (Redpanda), CI/CD, Terraform, MLflow, Lakehouse, Databricks, OpenObserve, Cloud Computing.
 
 #Hobbies 🎻🏍️🚴‍♀️🛼✈️📸🎮🇯🇵
 
