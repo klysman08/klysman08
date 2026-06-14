@@ -24,7 +24,8 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 #LearningJapanese 日本語
 ## Check my apps 
-- https://susumenihongo.app 
+- https://susumenihongo.app
+- https://englishub.app 
 - https://astrofocus.app 
 - https://wallpaper.astrofocus.app
 - https://gifs.astrofocus.app
