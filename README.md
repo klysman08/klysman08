@@ -28,7 +28,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - https://englishub.app: A study platform to prepare for the IELTS exam.
 - https://astrofocus.app: An ambient sound environment generator.
 - https://wallpaper.astrofocus.app: A desktop wallpaper manager for Windows.
-- https://textbetter.astrofocus.app: Help you with your texts for all pages.
+- https://textbetter.astrofocus.app: A web browser extension that improves your input text.
 - https://gifs.astrofocus.app: A browser extension for searching and sharing GIFs.
 - https://excaligif.astrofocus.app: A browser extension to insert GIFs directly into Excalidraw.
 
