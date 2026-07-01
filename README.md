@@ -24,11 +24,12 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 #LearningJapanese 日本語
 ## Check my apps 
-- https://susumenihongo.app
-- https://englishub.app 
-- https://astrofocus.app 
-- https://wallpaper.astrofocus.app
-- https://gifs.astrofocus.app
+- https://susumenihongo.app: A platform for learning Japanese.
+- https://englishub.app: A study platform to prepare for the IELTS exam.
+- https://astrofocus.app: An ambient sound environment generator.
+- https://wallpaper.astrofocus.app: A desktop wallpaper manager for Windows.
+- https://gifs.astrofocus.app: A browser extension for searching and sharing GIFs.
+- https://excaligif.astrofocus.app: A browser extension to insert GIFs directly into Excalidraw.
 
 ## よろしくお願いします。🫡
 
