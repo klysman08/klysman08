@@ -4,11 +4,7 @@ I am a Data Systems Engineer focused on building high-performance infrastructure
 Holder of a Master's degree in Data Science and a graduate degree in Production and Software Engineering.
 Experience bridging the gap between complex AI architecture and business growth. Expert in designing scalable Lakehouse solutions, FinOps and LLM integrations that drive operational efficiency.
 
-I have 10 years of experience in software. I know which decisions matter and which don't. I know how to build scalable, maintainable, cost-effective solutions and guide teams to do the same.
-
-
-
-Professional experience: +10 years:
+I have 10+ years of experience in software. I know which decisions matter and which don't. I know how to build scalable, maintainable, cost-effective solutions and guide teams to do the same.
 
 Key Competences:<br>
 🧠 Systems Design / Operations Research <br>
@@ -24,13 +20,15 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 #LearningJapanese 日本語
 ## Check my apps 
-- https://susumenihongo.app: A platform for learning Japanese.
-- https://englishub.app: A study platform to prepare for the IELTS exam.
-- https://astrofocus.app: An ambient sound environment generator.
-- https://wallpaper.astrofocus.app: A desktop wallpaper manager for Windows.
-- https://textbetter.astrofocus.app: A web browser extension that improves your input text.
-- https://gifs.astrofocus.app: A browser extension for searching and sharing GIFs.
-- https://excaligif.astrofocus.app: A browser extension to insert GIFs directly into Excalidraw.
+
+- **[Susume Nihongo](https://susumenihongo.app):** Master Japanese fluently with our intuitive, immersive learning platform.
+- **[EngliHub](https://englishub.app):** Crush your IELTS goals with the ultimate high-performance study companion.
+- **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
+- **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Transform your Windows desktop with stunning, high-definition visuals.
+- **[TextBetter](https://textbetter.astrofocus.app):** Write with unmatched precision using our intelligent browser-based text enhancer.
+- **[AstroFocus GIFs](https://gifs.astrofocus.app):** Instantly find and share the perfect GIF for any conversation.
+- **[ExcaliGIF](https://excaligif.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs seamlessly.
+
 
 ## よろしくお願いします。🫡
 
