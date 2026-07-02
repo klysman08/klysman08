@@ -21,13 +21,13 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 #LearningJapanese 日本語
 ## Check my apps 
 
-- **[Susume Nihongo](https://susumenihongo.app):** Master Japanese fluently with our intuitive, immersive learning platform.
-- **[EngliHub](https://englishub.app):** Crush your IELTS goals with the ultimate high-performance study companion.
+- **[Susume Nihongo](https://susumenihongo.app):** Master Japanese with an intuitive and immersive learning platform.
+- **[EnglisHub](https://englishub.app):** Crush your IELTS goals with the ultimate high-performance study companion.
+- **[TextBetter](https://textbetter.astrofocus.app):** Write with unmatched precision using our intelligent browser-based text enhancer.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Transform your Windows desktop with stunning, high-definition visuals.
-- **[TextBetter](https://textbetter.astrofocus.app):** Write with unmatched precision using our intelligent browser-based text enhancer.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** Instantly find and share the perfect GIF for any conversation.
-- **[ExcaliGIF](https://excaligif.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs seamlessly.
+- **[AstroFocus ExcaliGIF](https://excaligif.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs seamlessly.
 
 
 ## よろしくお願いします。🫡
