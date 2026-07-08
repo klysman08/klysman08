@@ -27,7 +27,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Transform your Windows desktop with stunning, high-definition visuals.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** Instantly find and share the perfect GIF for any conversation.
-- **[AstroFocus ExcaliGIF](https://excaligif.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs seamlessly.
+- **[AstroFocus ExcaliUp](https://excaliup.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs, Material Icons, and animations seamlessly.
 
 
 ## よろしくお願いします。🫡
