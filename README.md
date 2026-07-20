@@ -21,13 +21,13 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 #LearningJapanese 日本語
 ## Check my apps 
 
-- **[Susume Nihongo](https://susumenihongo.app):** Master Japanese with an intuitive and immersive learning platform.
-- **[EnglisHub](https://englishub.app):** Crush your IELTS goals with the ultimate high-performance study companion.
-- **[TextBetter](https://textbetter.astrofocus.app):** Write with unmatched precision using our intelligent browser-based text enhancer.
+- **[Susume Nihongo](https://susumenihongo.app):** This is your all-in-one platform to centralize and streamline your Japanese learning journey.
+- **[EnglisHub](https://englishub.app):** Everything you need to learn English and walk into IELTS day ready, in one place.
+- **[AstroFocus ExcaliUp](https://excaliup.astrofocus.app):** Enables and customizable path motion flows, and the complete Iconify open-source icon library directly inside your Excalidraw whiteboard canvas.
+- **[TextBetter](https://textbetter.astrofocus.app):** Highlight text, choose an action, and refine your sentences without leaving your browser tabs.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
-- **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Transform your Windows desktop with stunning, high-definition visuals.
-- **[AstroFocus GIFs](https://gifs.astrofocus.app):** Instantly find and share the perfect GIF for any conversation.
-- **[AstroFocus ExcaliUp](https://excaliup.astrofocus.app):** Bring your Excalidraw designs to life by embedding dynamic GIFs, Material Icons, and animations seamlessly.
+- **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
+- **[AstroFocus GIFs](https://gifs.astrofocus.app):** A lightweight Chrome extension that lets you search, preview, favorite, and copy GIF links.
 
 
 ## よろしくお願いします。🫡
