@@ -23,7 +23,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 - **[Susume Nihongo](https://susumenihongo.app):** This is your all-in-one platform to centralize and streamline your Japanese learning journey.
 - **[EnglisHub](https://englishub.app):** Everything you need to learn English and walk into IELTS day ready, in one place.
-- **[AstroFocus ExcaliUp](https://excaliup.astrofocus.app):** Enables and customizable path motion flows, and the complete Iconify open-source icon library directly inside your Excalidraw whiteboard canvas.
+- **[ExcaliUp](https://excaliup.astrofocus.app):** Enables and customizable path motion flows, and the complete Iconify open-source icon library directly inside your Excalidraw whiteboard canvas.
 - **[TextBetter](https://textbetter.astrofocus.app):** Highlight text, choose an action, and refine your sentences without leaving your browser tabs.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
