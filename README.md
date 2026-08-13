@@ -28,8 +28,8 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - **[ExcaliUp](https://excaliup.astrofocus.app):** Enables and customizable path motion flows, and the complete Iconify open-source icon library directly inside your Excalidraw whiteboard canvas.
 - **[TextBetter](https://textbetter.astrofocus.app):** Highlight text, choose an action, and refine your sentences without leaving your browser tabs.
 - **[VocalCraft](https://vocalcraft.astrofocus.app/):** OpenRouter Text-to-Speech Engine.
+- **[Wallpaper manager for Windows](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
-- **[AstroFocus Wallpapers](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** A lightweight Chrome extension that lets you search, preview, favorite, and copy GIF links.
 
 
