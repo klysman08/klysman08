@@ -1,5 +1,5 @@
 ## Hi 👋,　私はクリスマンです。
-I am a Data Systems Engineer focused on building high-performance infrastructures, prioritizing hardware efficiency and low latency.  My technical approach avoids JVM overhead, using languages like Rust and Python to create native, scalable, and cost-optimized ecosystems.
+I am a Systems Engineer focused on building high-performance infrastructures, prioritizing hardware efficiency and low latency.  My technical approach avoids JVM overhead, using languages like Rust and Python to create native, scalable, and cost-optimized ecosystems.
 
 Holder of a Master's degree in Data Science and a graduate degree in Production and Software Engineering.
 Experience bridging the gap between complex AI architecture and business growth. Expert in designing scalable Lakehouse solutions, FinOps and LLM integrations that drive operational efficiency.
