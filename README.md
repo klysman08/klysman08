@@ -22,6 +22,11 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 #FavoriteAnime: Nichijou 日常
 
 #LearningJapanese 日本語
+
+## My scientific papers:<br>
+- https://doi.org/10.3390/bdcc10100331 <br>
+- https://doi.org/10.3390/logistics10100221
+
 ## Check my apps: 
 
 - **[Susume Nihongo](https://susumenihongo.app):** This is your all-in-one platform to centralize and streamline your Japanese learning journey.
@@ -35,10 +40,6 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - **[Wallpaper manager for Windows](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** A lightweight Chrome extension that lets you search, preview, favorite, and copy GIF links.
-
-## My scientific papers:<br>
-- https://doi.org/10.3390/bdcc10100331 <br>
-- https://doi.org/10.3390/logistics10100221
 
 ## よろしくお願いします。🫡
 
