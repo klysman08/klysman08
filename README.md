@@ -18,7 +18,8 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 #AnimalWelfare 🐺
 
-#FavoriteGame: Granblue Fantasy Relink
+#FavoriteGame: Granblue Fantasy Relink グランブルーファンタジー <br>
+#FavoriteAnime: Nichijou 日常
 
 #LearningJapanese 日本語
 ## Check my apps: 
