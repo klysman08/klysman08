@@ -18,8 +18,10 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 #AnimalWelfare 🐺
 
+#FavoriteGame: Granblue Fantasy Relink
+
 #LearningJapanese 日本語
-## Check my apps 
+## Check my apps: 
 
 - **[Susume Nihongo](https://susumenihongo.app):** This is your all-in-one platform to centralize and streamline your Japanese learning journey.
 - **[EnglisHub](https://englishub.app):** Everything you need to learn English and walk into IELTS day ready, in one place.
@@ -33,10 +35,13 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** A lightweight Chrome extension that lets you search, preview, favorite, and copy GIF links.
 
+## My scientific papers:<br>
+- https://doi.org/10.3390/bdcc10100331 <br>
+- https://doi.org/10.3390/logistics10100221
 
 ## よろしくお願いします。🫡
 
-## My profiles:
+## Profiles:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klysman08/?useTarget=_blank)](https://www.linkedin.com/in/klysman08/?useTarget=_blank)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/584892602071908369/?useTarget=_blank)](https://discordapp.com/users/584892602071908369/?useTarget=_blank)
@@ -51,7 +56,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 [![IMDB Badge](https://img.shields.io/badge/-IMDB-C13584?style=flat-square&logo=IMDB&logoColor=white&link=https://www.imdb.com/user/ur129114315)](https://www.imdb.com/user/ur129114315?useTarget=_blank)
 [![SIMKL Badge](https://img.shields.io/badge/-SIMKL-C13584?style=flat-square&logo=SIMKL&logoColor=white&link=https://simkl.com/7740463/dashboard/)](https://simkl.com/7740463/dashboard/?useTarget=_blank)
 
-## My Workstation: 
+## Workstation: WSL + RTX
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/my-workstation.jpg" alt="workstation" style="width: 50%; ">
   <a href="https://miku.detakai.com/">
@@ -60,7 +65,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 </div>
 
 
-## My Homelab - Servers: 
+## Homelab and Cloud Servers: 
 <div style="display: flex;">
   <img src="https://github.com/klysman08/klysman08/blob/master/schema.png" alt="Diagram" style="width: 100%; ">
   <img src="https://github.com/klysman08/klysman08/blob/master/homelab.png" alt="Nano Pi" style="width: 100%; ">
