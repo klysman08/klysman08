@@ -40,6 +40,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 - **[Wallpaper manager for Windows](https://wallpaper.astrofocus.app):** Multi-monitor collage mode, live video wallpapers, auto-rotation and global hotkeys.
 - **[AstroFocus](https://astrofocus.app):** Elevate your deep work with personalized, immersive ambient soundscapes.
 - **[AstroFocus GIFs](https://gifs.astrofocus.app):** A lightweight Chrome extension that lets you search, preview, favorite, and copy GIF links.
+- **[Granblue Fantasy Relink](https://klysman08.github.io/gbfr-save-analytics/):** Analytics and data-correction tool for Granblue Fantasy Relink.
 
 ## よろしくお願いします。🫡
 
