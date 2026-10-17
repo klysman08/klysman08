@@ -29,6 +29,7 @@ Python, Rust, SQL, Polars, Delta, Iceberg, ETL, EDA, RestAPI, FastAPI, PostgreSQ
 
 ## Check my apps: 
 
+- **[ESN Alliance Data Platform](https://data.esnalliance.eu/en):** Software Architect & Lead Engineer. A data platform for analysing European startup ecosystems.
 - **[Susume Nihongo](https://susumenihongo.app):** This is your all-in-one platform to centralize and streamline your Japanese learning journey.
 - **[EnglisHub](https://englishub.app):** Everything you need to learn English and walk into IELTS day ready, in one place.
 - **[Nihongo Vector Knowledge](https://github.com/klysman08/SusumeNihongoVDB):** A single-host, Dockerized Japanese-learning knowledge app.
